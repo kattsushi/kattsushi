@@ -8,7 +8,7 @@ As a Venezuelan currently residing and working in Mexico, I am deeply committed 
 
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [andresdavid@outlkook.com](mailto:andresdavid@outlkook.com)
-* 🚀  I'm worked on Napster [Napster corp](http://napster.com/) since Jan2021 - Jul2025
+* 🚀  I'm worked on [Napster corp](http://napster.com/) since Jan2021 - Jul2025
 * 🧠  I'm learning web3 and AI
 
 ### Skills
